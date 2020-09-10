@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite>
+
+<test>
+
+<classes>
+
+<class name="testNG.DependanciesManagement"></class>
+<class name="testNG.DriveAcar"> </class>
+
+</classes>
+
+
+
+</test>
+
+
+
+</suite>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" verbose="2" parallel="methods" thread-count="2">
+
+<test name="Test Cases">
+<!-- <parameter name="Name" value="MK"></parameter>
+ -->
+<classes>
+<class name="testNG.ParallelTesting"></class>
+</classes>
+
+
+
+</test>
+
+</suite>
+
+
+
+<!-- <groups>
+<run>
+<include name="Moto"></include>
+<include name="Vivo"></include>
+<exclude name="Apple"></exclude>
+</run>
+
+</groups> -->
+
+<!-- <class name="testNG.DependanciesManagement"></class>
+<class name="testNG.DriveAcar"></class>
+<class name="testNG.sampleTestcase"></class> -->
